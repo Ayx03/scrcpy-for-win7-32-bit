@@ -1,0 +1,1 @@
+# scrcpy-for-win7-32-bit
